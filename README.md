@@ -1,6 +1,6 @@
 # 🚀 Automation Testing Project on Automation Test Store  
 
-This repository contains the comprehensive testing deliverables created during the automation testing of the **Automation Test Store** website <a href="https://automationteststore.com/" target="_blank">Link</a> using **Cypress** and the **Page Object Model** framework. The project focuses on ensuring seamless functionality, usability, and performance of critical e-commerce features.  
+Experiment to demonstrate advanced Cypress automation testing using the Page Object Model on the 🔴〰️🔵〰️⚫ Automation Test Store <a href="https://automationteststore.com/" target="_blank">Link</a> using **Cypress** and the **Page Object Model** framework. The project focuses on ensuring seamless functionality, usability, and performance of critical e-commerce features.  
 
 ---
 
